@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3750
     wikipedia: http://de.wikipedia.org/wiki/Agnes_Sapper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23134#Frau-Pauline-BraterLebensbild-einer-deutschen-Frau
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2007-10-21'
 gutenberg_type: Text
